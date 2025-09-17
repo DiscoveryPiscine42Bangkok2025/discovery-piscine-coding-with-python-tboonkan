@@ -1,2 +1,2 @@
-my_age = "42"
+my_age = "67"
 print(my_age)
