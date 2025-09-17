@@ -1,7 +1,7 @@
-'password = "python is awesome"'
+password = "Python is awesome"
 prompt = input()
 
-if prompt == password :
+if prompt == Password :
     print("ACCESS GRANTED")
 else:
     print("ACCESS DENIED")
