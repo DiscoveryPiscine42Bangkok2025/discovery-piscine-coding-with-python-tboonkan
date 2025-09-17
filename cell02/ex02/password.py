@@ -1,4 +1,4 @@
-password = "python is awesome"
+'password = "python is awesome"'
 prompt = input()
 
 if prompt == password :
