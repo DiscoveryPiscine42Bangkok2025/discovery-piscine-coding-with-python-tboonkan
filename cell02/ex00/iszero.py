@@ -1,6 +1,5 @@
 number = int(input())
 if number == 0 :
-    prini ("this number is equal to Zero.")
+    print ("this number is equal to zero.")
 else :
     print ("this number is different from zero.")
-    
